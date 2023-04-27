@@ -12,7 +12,7 @@
       </button>
       <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
         <ul class="navbar-nav">
-          <li class="nav-item"><a class="nav-link active" aria-current="page" href="index.html">Home</a></li>
+          <li class="nav-item"><a class="nav-link active" aria-current="page" href="index.html">main</a></li>
           <li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
           <li class="nav-item"><a class="nav-link" href="#testimonials">Testimonials</a></li>
           <li class="nav-item"><a class="nav-link" href="#faq">faq</a></li>
@@ -42,11 +42,10 @@
         <h1 class="display-2">
           <span class="display-2--intro">Hey!, I'm Priyanshi</span>
           <span class="display-2--description lh-base">
-            this is a multi-purpose responsive layout created with bootstrap v5. 
-            (here your can place your description text)
+            This is the porfolio of Agra's biggest mental patient Priyanshi Gupta.
           </span>
         </h1>
-        <button type="button" class="rounded-pill btn-rounded">Get in Touch
+        <button type="button" class="rounded-pill btn-rounded">come meet her
           <span><i class="fas fa-arrow-right"></i></span>
         </button>
       </div>
@@ -112,6 +111,13 @@
             <img src="../images/campanies/campany-6.png" alt="Campany 6 logo" title="Campany 6 Logo" class="img-fluid">
           </div>
         </div>
+        <div class="col-md-4 col-lg-2">
+          <div class="campanies__logo-box shadow-sm">
+            <img src="../images/campanies/Delloite.png" alt="Campany 6 logo" title="Campany 6 Logo" class="img-fluid">
+          </div>
+        </div>
+        
+
       </div>
     </div>
   </section>
@@ -122,7 +128,7 @@
 <section id="services" class="services">
   <div class="container">
     <div class="row text-center">
-      <h1 class="display-3 fw-bold">Our Services</h1>
+      <h1 class="display-3 fw-bold">Our kindness</h1>
       <div class="heading-line mb-1"></div>
     </div>
   <!-- START THE DESCRIPTION CONTENT  -->
@@ -130,7 +136,7 @@
       <div class="col-md-6 border-right">
         <div class="bg-white p-3">
           <h2 class="fw-bold text-capitalize text-center">
-            Our Services Range From Initial Design To Deployment Anywhere Anytime
+            Our kindness Range From Kashmir To Kanyakumari Anywhere Anytime
           </h2>
         </div>
       </div>
