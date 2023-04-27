@@ -40,7 +40,7 @@
       <!-- START THE CONTENT FOR THE INTRO  -->
       <div class="col-md-6 intros text-start">
         <h1 class="display-2">
-          <span class="display-2--intro">Hey!, I'm Vidhan</span>
+          <span class="display-2--intro">Hey!, I'm Priyanshi</span>
           <span class="display-2--description lh-base">
             this is a multi-purpose responsive layout created with bootstrap v5. 
             (here your can place your description text)
