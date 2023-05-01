@@ -143,9 +143,9 @@
       <div class="col-md-6">
         <div class="bg-white p-4 text-start">
           <p class="fw-light">
-            Lorem ipsum dolor sit amet consectetur architecto magni, 
-            dicta maxime laborum temporibus dolorem esse doloremque illo quas nisi enim molestias. 
-            Tempore ducimus molestiae in dolore enim.
+            mental hospital, also known as a psychiatric hospital, 
+            is a facility that provides specialized inpatient care for mental health conditions.
+           Mental hospitals often provide care and treatment for people with serious mental health illnesses.
           </p>
         </div>
       </div>
@@ -159,11 +159,11 @@
       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 services mt-4">
         <div class="services__content">
           <div class="icon d-block fas fa-paper-plane"></div>
-          <h3 class="display-3--title mt-1">Marketing</h3>
+          <h3 class="display-3--title mt-1">Funding</h3>
           <p class="lh-lg">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, impedit rem,
-             doloremque autem quibusdam blanditiis harum alias hic accusantium 
-             maxime atque ratione magni repellat?
+            mental hospital, also known as a psychiatric hospital, 
+            is a facility that provides specialized inpatient care for mental health conditions. 
+            Mental hospitals often provide care and treatment for people with serious mental health illnesses.
           </p>
           <button type="button" class="rounded-pill btn-rounded border-primary">Learn more
             <span><i class="fas fa-arrow-right"></i></span>
