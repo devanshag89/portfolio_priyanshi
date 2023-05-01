@@ -5,7 +5,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark menu shadow fixed-top">
     <div class="container">
       <a class="navbar-brand" href="">
-        <img src="../images/logo.png" alt="logo image">
+        <img src="../images/logooo.png" alt="logo image">
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -42,7 +42,7 @@
         <h1 class="display-2">
           <span class="display-2--intro">Hey!, I'm Priyanshi</span>
           <span class="display-2--description lh-base">
-            This is the porfolio of Agra's biggest mental patient Priyanshi Gupta.
+            
           </span>
         </h1>
         <button type="button" class="rounded-pill btn-rounded">come meet her
@@ -136,16 +136,14 @@
       <div class="col-md-6 border-right">
         <div class="bg-white p-3">
           <h2 class="fw-bold text-capitalize text-center">
-            Our kindness Range From Kashmir To Kanyakumari Anywhere Anytime
+            
           </h2>
         </div>
       </div>
       <div class="col-md-6">
         <div class="bg-white p-4 text-start">
           <p class="fw-light">
-            mental hospital, also known as a psychiatric hospital, 
-            is a facility that provides specialized inpatient care for mental health conditions.
-           Mental hospitals often provide care and treatment for people with serious mental health illnesses.
+            
           </p>
         </div>
       </div>
@@ -159,11 +157,9 @@
       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 services mt-4">
         <div class="services__content">
           <div class="icon d-block fas fa-paper-plane"></div>
-          <h3 class="display-3--title mt-1">Funding</h3>
+          <h3 class="display-3--title mt-1"></h3>
           <p class="lh-lg">
-            mental hospital, also known as a psychiatric hospital, 
-            is a facility that provides specialized inpatient care for mental health conditions. 
-            Mental hospitals often provide care and treatment for people with serious mental health illnesses.
+            
           </p>
           <button type="button" class="rounded-pill btn-rounded border-primary">Learn more
             <span><i class="fas fa-arrow-right"></i></span>
