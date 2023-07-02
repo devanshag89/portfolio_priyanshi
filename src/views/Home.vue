@@ -5,7 +5,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark menu shadow fixed-top">
     <div class="container">
       <a class="navbar-brand" href="">
-        <img src="../images/logo72.png" alt="logo image">
+        <img src="../images/devvlogo.png" alt="logo image">
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -82,32 +82,32 @@
     <div class="container">
       <div class="row">
         <div class="col-md-4 col-lg-2">
-          <div class="campanies__logo-box shadow-sm">
+          <div class="shadow-sm">
             <img src="../images/campanies/pakistan.png" alt="Campany 1 logo" title="Campany 1 Logo" class="img-fluid">
           </div>
         </div>
         <div class="col-md-4 col-lg-2">
-          <div class="campanies__logo-box shadow-sm">
-            <img src="../images/campanies/usa.jpg" alt="Campany 2 logo" title="Campany 2 Logo" class="img-fluid">
+          <div class="shadow-sm">
+            <img src="../images/campanies/usa.jpg" alt="Campany 2 logo" title="Campany 2 Logo" class="img-fluid max-w-4xl">
           </div>
         </div>
         <div class="col-md-4 col-lg-2">
-          <div class="campanies__logo-box shadow-sm">
+          <div class="shadow-sm">
             <img src="../images/campanies/uk.jpg" alt="Campany 2 logo" title="Campany 2 Logo" class="img-fluid">
           </div>
         </div>
         <div class="col-md-4 col-lg-2">
-          <div class="campanies__logo-box shadow-sm">
-            <img src="../images/campanies/india.jpg" alt="Campany 2 logo" title="Campany 2 Logo" class="img-fluid">
+          <div class="shadow-sm ">
+            <img src="../images/campanies/indiaaa.jpg" alt="Campany 2 logo" title="Campany 2 Logo" class="img-fluid ">
           </div>
         </div>
         <div class="col-md-4 col-lg-2">
-          <div class="campanies__logo-box shadow-sm">
+          <div class="shadow-sm">
             <img src="../images/campanies/philippines.png" alt="Campany 2 logo" title="Campany 2 Logo" class="img-fluid">
           </div>
         </div>
         <div class="col-md-4 col-lg-2">
-          <div class="campanies__logo-box shadow-sm">
+          <div class="shadow-sm">
             <img src="../images/campanies/kuwait.png" alt="Campany 2 logo" title="Campany 2 Logo" class="img-fluid">
           </div>
         </div>
